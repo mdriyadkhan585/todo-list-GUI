@@ -1,6 +1,6 @@
-# 📋 To-Do List Application
+# 📋 To-Do List GUI
 
-Welcome to the **To-Do List Application**! This app helps you manage your tasks efficiently with a clean and user-friendly interface. You can add, edit, delete tasks, and save or import tasks from an XML file. The app also features a light and dark theme toggle to suit your preferences.
+Welcome to the **To-Do List Application GUI**! This app helps you manage your tasks efficiently with a clean and user-friendly interface. You can add, edit, delete tasks, and save or import tasks from an XML file. The app also features a light and dark theme toggle to suit your preferences.
 
 ## 🚀 Features
 
