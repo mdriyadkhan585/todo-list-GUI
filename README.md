@@ -20,6 +20,11 @@ Welcome to the **To-Do List Application GUI**! This app helps you manage your ta
 - **Toggle Theme**: Switch between light and dark themes.
 - **Exit**: Close the application.
 
+---
+
+![gif](lv_0_20240908013638.gif)
+
+---
 ## 🛠️ Installation and Setup
 
 1. **Clone the Repository**
