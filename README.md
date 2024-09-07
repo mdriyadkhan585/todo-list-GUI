@@ -98,7 +98,7 @@ Feel free to open issues or submit pull requests if you have suggestions or impr
 
 ## 📧 Contact
 
-For any questions or feedback, please contact [mdriyadkhan585@gmail.com](mailto: mdriyadkhan585@gmail.com).
+For any questions or feedback, please contact [mdriyadkhan585@gmail.com[(mailto:mdriyadkhan585@gmail.com)
 
 ---
 
