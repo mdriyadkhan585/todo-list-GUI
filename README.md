@@ -1,5 +1,13 @@
 # 📋 To-Do List GUI
+---
+[In Python](https://github.com/mdriyadkhan585/todo-list-python)
 
+[In C Script](https://github.com/mdriyadkhan585/todo-list)
+
+
+![Logo](logo.svg)
+
+---
 Welcome to the **To-Do List Application GUI**! This app helps you manage your tasks efficiently with a clean and user-friendly interface. You can add, edit, delete tasks, and save or import tasks from an XML file. The app also features a light and dark theme toggle to suit your preferences.
 
 ## 🚀 Features
